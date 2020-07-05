@@ -30,6 +30,7 @@
 - Работа с Developer Tools
 - Работа со снифферами Charles/Fidddler (фильтр и подмена запросов, имитация различных скоростей интернет-соединения)
 - Postman (Запросы GET, POST, PUT, PATCH, DELETE)
+- SQL (Запросы SELECT, JOIN, DELETE, UPDATE, INSERT; снятие дампов)
 - Базовые знания Linux и написание простых скриптов на bash
 - Основы Python
 
